@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">geoquiz snackbar</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_snackbar">Correct!</string>
+    <string name="incorrect_snackbar">Incorrect!</string>
+</resources>
